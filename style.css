@@ -1,0 +1,32 @@
+* {
+    scroll-behavior: smooth;
+}
+
+/* ↓↓↓ my utility class css ↓↓↓ */
+.button-1 {
+    padding: .5rem 1.25rem;
+    color: #171717;
+    border-radius: 100px;
+    font-weight: 600;
+}
+
+.flex-center-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-col-start-start {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.flex-between-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* ↑↑↑ my utility class css ↑↑↑ */
